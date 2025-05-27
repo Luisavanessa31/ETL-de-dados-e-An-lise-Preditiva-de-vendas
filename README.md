@@ -1,4 +1,4 @@
-# ETL-de-dados-e-Análise-Preditiva-de-vendas
+# ETL de dados e Análise Preditiva de vendas
 
 ✅ 7. ETL de Dados Financeiros com Prefect, S3 e Snowflake
 
